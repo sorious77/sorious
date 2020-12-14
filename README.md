@@ -1,10 +1,12 @@
 <div align="center">
 
-I'm Jeong Woo.
+Hi, I'm Jeong Woo.
 
 I want to be a Front-End Developer.
 
 But, Someday I will be a Full-Stack Developer.
+
+Thanks for visiting my GitHub.
 
 </div>
 
