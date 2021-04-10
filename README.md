@@ -23,7 +23,7 @@ Thanks for visiting my GitHub.
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -43,13 +43,13 @@ Thanks for visiting my GitHub.
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     8 hrs 48 mins       █████████████████████████   100.0%
+Java                     7 hrs 40 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Eclipse                  8 hrs 48 mins       █████████████████████████   100.0%
+Eclipse                  7 hrs 40 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  8 hrs 48 mins       █████████████████████████   100.0%
+Windows                  7 hrs 40 mins       █████████████████████████   100.0%
 
 ```
 
