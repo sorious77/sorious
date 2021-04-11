@@ -29,7 +29,7 @@ Thanks for visiting my GitHub.
 
 > 🏆 177 Contributions in the Year 2021
  > 
-> 📦 7.8 kB Used in Github's Storage 
+> 📦 7.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
