@@ -27,13 +27,13 @@ Thanks for visiting my GitHub.
 
 **🐱 My Github Data** 
 
-> 🏆 177 Contributions in the Year 2021
+> 🏆 178 Contributions in the Year 2021
  > 
 > 📦 7.9 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
@@ -43,13 +43,13 @@ Thanks for visiting my GitHub.
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     7 hrs 40 mins       █████████████████████████   100.0%
+Java                     7 hrs 41 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Eclipse                  7 hrs 40 mins       █████████████████████████   100.0%
+Eclipse                  7 hrs 41 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  7 hrs 40 mins       █████████████████████████   100.0%
+Windows                  7 hrs 41 mins       █████████████████████████   100.0%
 
 ```
 
