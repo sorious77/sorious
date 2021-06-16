@@ -27,7 +27,7 @@ Thanks for visiting my GitHub.
 
 **🐱 My Github Data** 
 
-> 🏆 226 Contributions in the Year 2021
+> 🏆 227 Contributions in the Year 2021
  > 
 > 📦 9.2 kB Used in Github's Storage 
  > 
@@ -43,13 +43,13 @@ Thanks for visiting my GitHub.
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     5 hrs 11 mins       █████████████████████████   100.0%
+Java                     4 hrs 18 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Eclipse                  5 hrs 11 mins       █████████████████████████   100.0%
+Eclipse                  4 hrs 18 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  5 hrs 11 mins       █████████████████████████   100.0%
+Windows                  4 hrs 18 mins       █████████████████████████   100.0%
 
 ```
 
@@ -66,7 +66,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2021
+ Last Updated on 16/06/2021
 <!--END_SECTION:waka-->
 
 </div>
