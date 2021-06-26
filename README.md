@@ -27,7 +27,7 @@ Thanks for visiting my GitHub.
 
 **🐱 My Github Data** 
 
-> 🏆 233 Contributions in the Year 2021
+> 🏆 235 Contributions in the Year 2021
  > 
 > 📦 9.6 kB Used in Github's Storage 
  > 
@@ -66,7 +66,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/06/2021
+ Last Updated on 26/06/2021
 <!--END_SECTION:waka-->
 
 </div>
