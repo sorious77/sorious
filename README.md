@@ -23,19 +23,19 @@ Thanks for visiting my GitHub.
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 235 Contributions in the Year 2021
+> 🏆 239 Contributions in the Year 2021
  > 
 > 📦 9.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
-> 🔑 8 Private Repositories  
+> 🔑 7 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -43,30 +43,30 @@ Thanks for visiting my GitHub.
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     1 hr 15 mins        █████████████████████████   100.0%
+Java                     45 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-Eclipse                  1 hr 15 mins        █████████████████████████   100.0%
+Eclipse                  45 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 15 mins        █████████████████████████   100.0%
+Windows                  45 mins             █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   31.58% 
+JavaScript               7 repos             █████████░░░░░░░░░░░░░░░░   36.84% 
 C++                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05% 
 Java                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
 ```
 
 
 
- Last Updated on 27/06/2021
+ Last Updated on 28/06/2021
 <!--END_SECTION:waka-->
 
 </div>
