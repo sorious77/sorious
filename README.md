@@ -1,5 +1,6 @@
 <div align="center">
-
+  
+### 🎃 Introduce 🎃  
 Hi, I'm Jeong Woo.
 
 I want to be a Front-End Developer.
@@ -13,7 +14,7 @@ Thanks for visiting my GitHub.
 ---
 
 <link rel="stylesheet" href="devicon.min.css">
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">⛏Languages and Tools⛏</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="c" height="25"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" height="25"/></a>
@@ -36,59 +37,17 @@ Thanks for visiting my GitHub.
 <div align="center">
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sorious77)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ---
+  
+### 🎈 Mostly 🎈
+
+  Study Algorithm with BOJ
+<br/><br/>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=sorious77)](https://solved.ac/sorious77)
 
 
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 252 Contributions in the Year 2021
- > 
-> 📦 19.8 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 7 Private Repositories  
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-JavaScript               4 hrs 54 mins       ███████████████████░░░░░░   78.08% 
-TypeScript               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.23% 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.74% 
-CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
-HTML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72%
-
-🔥 Editors: 
-VS Code                  6 hrs 17 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  6 hrs 17 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               7 repos             ████████░░░░░░░░░░░░░░░░░   35.0% 
-C++                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
-
-```
-
-
-
- Last Updated on 05/07/2021
-<!--END_SECTION:waka-->
 
 </div>
 
