@@ -25,10 +25,9 @@ Thanks for visiting my GitHub.
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="typescript" height="25"> </a>
   <br/>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="react" height="25"> </a>
-  <a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="spring" height="25"/> </a>
+  <a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="spring" height="25"> </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="springboot" height="25"/> </a>
-  <a href="https://nodejs.org/ko/" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="nodejs" height="25"/></a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="mysql" height="25"/></a><a href="http://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="firebase" height="25"/></a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="mysql" height="25"/> <a href="http://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="firebase" height="25"/></a>
   
   
 </p>
