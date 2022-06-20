@@ -4,6 +4,8 @@
 Hi, I'm Jeong Woo.
 
 Thanks for visiting my GitHub.
+  
+I always study hard to be a FE developer.
 
 </div>
 
