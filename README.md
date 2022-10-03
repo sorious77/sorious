@@ -4,8 +4,6 @@
 Hi, I'm Jeong Woo.
 
 Thanks for visiting my GitHub.
-  
-I always study hard to be a FE developer.
 
 </div>
 
@@ -36,11 +34,7 @@ I always study hard to be a FE developer.
   
 ### 🎈 Mostly 🎈
 
-  Study Algorithm with BOJ
-<br/><br/>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=sorious77)](https://solved.ac/sorious77)
-
+  Study React, Spring
 
 
 </div>
