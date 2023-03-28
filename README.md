@@ -22,6 +22,7 @@ Thanks for visiting my GitHub.
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="react" height="25"> </a>
   <a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="spring" height="25"> </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.shields.io/badge/Spring&nbsp;Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="springboot" height="25"/> </a>
+  <a href="https://nodejs.org/en" taret="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" height="25"> </a>
   
   
 </p>
@@ -34,7 +35,7 @@ Thanks for visiting my GitHub.
   
 ### 🎈 Mostly 🎈
 
-  Study React, Spring
+  Study React, Node.js
 
 
 </div>
